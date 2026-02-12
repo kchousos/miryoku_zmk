@@ -12,6 +12,6 @@ jobs:
       shield: '["corne_left nice_view_adapter nice_view"]'
       alphas: '["QWERTY"]'
       custom_config: '["#define MIRYOKU_KLUDGE_SOFT_OFF"]'
-      kconfig: '["CONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_POINTING=y\nCONFIG_ZMK_PM_SOFT_OFF=y\nCONFIG_CUSTOM_WIDGET_LOGO_IMAGE_MIRYOKU=y\nCONFIG_ZMK_KEYBOARD_NAME=\"Chocofi\""]'
+      kconfig: '["CONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_POINTING=y\nCONFIG_ZMK_PM_SOFT_OFF=y\nCONFIG_CUSTOM_WIDGET_LOGO_IMAGE_MIRYOKU=y"]'
       branches: '["zmkfirmware/zmk/main"]'
       # modules: '["M165437/nice-view-gem/main"]'
