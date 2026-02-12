@@ -1,6 +1,0 @@
-/* Define the label that nice_view.overlay expects */
-nice_view_spi: &spi0 {
-  status = "okay";
-  /* Default CS for nice!view on nice!nano is D1 (P0.06). Adjust if you wired CS elsewhere. */
-  cs-gpios = <&pro_micro 21 GPIO_ACTIVE_HIGH>;
-};
