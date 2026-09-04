@@ -9,6 +9,8 @@ U_NP,              U_NP,              &kp LGUI,         &kp SPACE,         &kp T
 
 #define MIRYOKU_ALPHAS_QWERTY
 
+#define MIRYOKU_TAP_QWERTY
+
 // https://github.com/kchousos/miryoku_zmk?tab=readme-ov-file#tap-delay
 #define MIRYOKU_KLUDGE_TAPDELAY
 
